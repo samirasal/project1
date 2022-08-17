@@ -1,0 +1,77 @@
+h1,
+h2 {
+  text-align: center;
+  position: relative;
+  margin-top: 30px;
+  font-family: "Dancing Script", cursive;
+}
+.container {
+  position: fixed;
+  bottom: 0px;
+  padding-left: 100px;
+  margin-bottom: 0px;
+  font-family: "Dancing Script", cursive;
+  column-count: 6;
+}
+img {
+  width: 800px;
+  position: fixed;
+  left: 300px;
+  top: 0;
+  size: 100px;
+}
+.card-body {
+  background-color: black;
+  color: white;
+}
+.card-text {
+  color: pink;
+  font-size: 30px;
+}
+.card-title {
+  color: coral;
+  font-size: 30px;
+}
+body {
+  background-image: url("https://s3.amazonaws.com/shecodesio-production/uploads/files/000/037/943/original/IMG_9715.JPG?1655769072");
+}
+.appearance {
+  position: relative;
+  left: 1000px;
+  top: 10px;
+  background: coral;
+  color: white;
+  border-radius: 20px;
+  border: 1px solid black;
+}
+#search-text {
+  position: fixed;
+  left: 1210px;
+  top: 10px;
+  background: coral;
+  color: black;
+  border-radius: 20px;
+  border: 1px solid black;
+  font-size: small;
+}
+.temperature {
+  font-family: "Dancing Script", cursive;
+  font-size: 300%;
+  position: fixed;
+  left: 400px;
+}
+.details {
+  font-family: "Dancing Script", cursive;
+  position: fixed;
+  left: 400px;
+  margin-top: 40px;
+}
+.initials {
+  font-family: "Dancing Script", cursive;
+  font-size: 20px;
+  position: fixed;
+  left: 400px;
+}
+#button-selector {
+  margin: 0 auto;
+}
